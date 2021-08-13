@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099480936625",
+    "project_id": "shoppinappfelix",
+    "storage_bucket": "shoppinappfelix.appspot.com",
+    "firebase_url" : "https://shoppinappfelix-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099480936625:android:3c07b55bf0aed3901e7290",
+        "android_client_info": {
+          "package_name": "com.example.shoppinappfelix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099480936625-i2qsoqb6rvksn171nm8vsa49k6qde1b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaBm27-1EcVMhJr7YwqHz5bxT9KvGSUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099480936625-i2qsoqb6rvksn171nm8vsa49k6qde1b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
